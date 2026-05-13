@@ -3,7 +3,7 @@
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge\&logo=python)
-![CLI App](https://img.shields.io/badge/Application-CLI%20Based-success?style=for-the-badge)
+
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 ![Beginner Friendly](https://img.shields.io/badge/Beginner-Friendly-orange?style=for-the-badge)
 
@@ -163,24 +163,16 @@ Student-Data-Organizer/
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/student-data-organizer.git
+git clone https:https://github.com/patilkalpesh0312/COLLECTION-MANIPULATOR.git
 ```
+
+
+
+
 
 ---
 
-## 2️⃣ Navigate to Project Folder
-
-```bash
-cd student-data-organizer
-```
-
----
-
-## 3️⃣ Run Program
-
-```bash
-python main.py
-```
+## 
 
 ---
 
